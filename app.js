@@ -5,8 +5,8 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 
 // 在github去申请
-const clientId = "YOUR_CLIENT_ID";
-const clientSecret = "YOUR_CLIENT_SECRET";
+const clientId = "a92adea1f90a043386f6";
+const clientSecret = "53d0a14349f76cbe0813283c00e9a5cab73984df";
 
 app.use(cors());
 app.use(bodyParser.json());
